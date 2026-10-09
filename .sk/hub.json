@@ -1,0 +1,17 @@
+{
+  "titulo": "artifacts",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "mobile/server/templates/landing-page.html",
+      "nome": "APP_NAME_PLACEHOLDER",
+      "desc": "",
+      "on": true,
+      "icone": "mobile/server/templates/icons/icon.svg"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
